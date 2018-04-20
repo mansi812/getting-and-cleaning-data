@@ -9,3 +9,29 @@ gsub command is used to replace all the undesrcores with “”
 Using the indices found earlier (mean.sd) ,names were given to all the activities in X dataset
 Tidydata set was formed using the cbind column
 Lapply column has been used to measure mean and SD across Subject ID and Activity
+
+
+Following are the activity measurements for the data
+
+tBodyAcc-XYZ
+tGravityAcc-XYZ
+tBodyAccJerk-XYZ
+tBodyGyro-XYZ
+tBodyGyroJerk-XYZ
+tBodyAccMag
+tGravityAccMag
+tBodyAccJerkMag
+tBodyGyroMag
+tBodyGyroJerkMag
+fBodyAcc-XYZ
+fBodyAccJerk-XYZ
+fBodyGyro-XYZ
+fBodyAccMag
+fBodyAccJerkMag
+fBodyGyroMag
+fBodyGyroJerkMag
+
+The data is grouped by the follwong activities:
+ (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+ 
+ 
